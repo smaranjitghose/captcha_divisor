@@ -44,11 +44,16 @@ for i in range(img.shape[0]):
             img[i][j] = random.randint(123, 255) # white pixels
 
 #### Blurring the image
-
 img = cv2.blur(img, (int(size/random.randint(5, 10)),int(size/random.randint(5, 10))))
 
-#### Displaying image
-cv2.imshow(f"{text}", img)
-cv2.waitKey()
-cv2.destroyAllWindows()
-cv2.imwrite(f"assets/captcha.png", img) # save the image
+
+#create windows to display images
+cv2.imshow('Captcha Devisor',img)
+# Input keypress
+k = cv2.waitKey(0) & 0xff
+# If Esc key is pressed
+if k == ord('q'):
+    # Save the image in the desired path
+    cv2.imwrite(f"assets/captcha.png", img)
+    #close all the opened windows
+    cv2.destroyAllWindows()

@@ -25,7 +25,10 @@ Puzzled how? Well with Python🐍 you can have a magical spell to do this!
 <p align = center><img src = assets/captcha_2.png width = 30%></p>
 <h5 align = center> Sample 3 </h5>
 <p align = center><img src = assets/captcha_3.png width = 30%></p>
-|
+<h5 align = center> Sample 4 </h5>
+<p align = center><img src = assets/captcha_4.png width = 30%></p>
+<h5 align = center> Sample 5 </h5>
+<p align = center><img src = assets/captcha_5.png width = 30%></p>
 
 <h2 align ='center'>Usage</h2>
 
