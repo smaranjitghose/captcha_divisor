@@ -26,8 +26,9 @@ Let's See what we get?
 <p align = center><img src = assets\captcha_2.png width = 20%></p>
 
 <h2 align ='center'>Usage</h2>
+
+<p align = 'center'><img src = "https://media.giphy.com/media/oD5jVVOW8sXYI/giphy.gif" width = 40%></p>
 Convinced..huh? 😉 and want this spell for yourself?
-<p align = 'center'><img src = "https://media.giphy.com/media/oD5jVVOW8sXYI/giphy.gif" width = 35%></p>
 
 Here you go:
 
