@@ -47,6 +47,7 @@ Here you go:
 - Now, the climax you have been waiting for!😎. Run the script using Terminal
   ```python captcha_divisor.py```
 - Abracadabra ⚡
+- To save the captcha press ```q```
 - Try to multiple times to generate a different captcha everytime. At times you'll like it at times you would not.
 
 **I assume you have python installed on your system and set to path.**
