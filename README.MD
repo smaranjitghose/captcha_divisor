@@ -4,7 +4,7 @@ Nowdays with the boon of automation with Python🐍 and Javascript🕸, making b
 <p align = center><img src = "https://media.giphy.com/media/l1KtYG8BndKBmWrM4/giphy.gif" width = 35%></p>
 
 However, this has often been exploited to spam people🗣, perform attacks🤺, causes losses to organizations and all sorts of malicious acts😈.
-<p align = center><img src = "https://media.giphy.com/media/13FD3rp8IqYUXm/giphy.gif width" = 35%></p>
+<p align = center><img src = "https://media.giphy.com/media/13FD3rp8IqYUXm/giphy.gif" width = 35%></p>
 
 Hence, a precaution measure like [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) has become a necessity for a lot of platforms
 <p align = center><img src = "https://media.giphy.com/media/GLKFrfwDJQFaw/giphy.gif" width = 35%></p>
