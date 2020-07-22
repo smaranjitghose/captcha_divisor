@@ -52,6 +52,8 @@ Here you go:
 
 **I assume you have python installed on your system and set to path.**
 
+__Please Note: I don't own any of the fonts. I have simply used the variations of Montserrat and Poppins from [Google Fonts](https://fonts.google.com/). Feel free to use more fonts__
+
 <h2 align = 'center'>License 📜</h2>
 <p align = 'center'><img src = "https://media.giphy.com/media/XfD8VJDUurgMjNEP72/giphy.gif" width = 40%></p>
 
