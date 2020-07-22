@@ -1,3 +1,4 @@
+#### Grabbing our dependencies
 from PIL import ImageFont, ImageDraw, Image
 import numpy as np
 import random 
