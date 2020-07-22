@@ -19,11 +19,13 @@ Puzzled how? Well with Python🐍 you can have a magical spell to do this!
 <p align = center><img src = "https://media.giphy.com/media/10uct1aSFT7QiY/giphy.gif" width = 35%></p>
 
 <h2 align = center> Demo </h2>
-
-Let's See what we get?
-|Sample 1| Sample 2|
-|-----|----|
-|<img src = "assets/captcha_1.png" width = 150%>|<img src = "assets/captcha_2.png" width = 150%>|
+<h5 align = center> Sample 1 </h5>
+<p align = center><img src = assets/captcha_1.png width = 30%></p>
+<h5 align = center> Sample 2 </h5>
+<p align = center><img src = assets/captcha_2.png width = 30%></p>
+<h5 align = center> Sample 3 </h5>
+<p align = center><img src = assets/captcha_3.png width = 30%></p>
+|
 
 <h2 align ='center'>Usage</h2>
 
