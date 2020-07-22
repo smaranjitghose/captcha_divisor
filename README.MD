@@ -1,4 +1,4 @@
-<h1 align = center> Captch Devisor🔐 </h1>
+<h1 align = center> Captcha Devisor🔐 </h1>
 
 Nowdays with the boon of automation with Python🐍 and Javascript🕸, making bots🤖 has become very easy!
 <p align = center><img src = "https://media.giphy.com/media/l1KtYG8BndKBmWrM4/giphy.gif" width = 40%></p>
